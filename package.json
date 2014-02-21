@@ -16,8 +16,7 @@
     "url": "http://github.com/azer/genpkg.git"
   },
   "bin": {
-    "genpkg": "./bin/genpkg",
-    "test": "./test/run"
+    "genpkg": "./bin/genpkg"
   },
   "devDependencies": {
     "highkick": "1.x",
